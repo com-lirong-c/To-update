@@ -1,8 +1,8 @@
 {
-    "versionCode": ,
-    "versionName": "",
+    "versionCode": 2,
+    "versionName": "1.5.1",
     "apkUrl": "https://github.com/lirong-dev/app-updates/raw/main/app-release.apk",
-    "changeLog": "1. 修复已知问题\n2. 优化性能\n3. 新增功能",
+    "changeLog": "1. 功能更新\n2. 性能优化\n3. 问题修复",
     "minRequiredVersion": 1,
     "size": 6371216,
     "md5": "789d2faa383bcd69e1039203c7639d0c",
