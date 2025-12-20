@@ -4,8 +4,8 @@
     "apkUrl": "https://github.com/lirong-dev/app-updates/raw/main/app-release.apk",
     "changeLog": "1. 功能更新\n2. 性能优化\n3. 问题修复",
     "minRequiredVersion": 1,
-    "size": 6379408,
-    "md5": "52ddd5fac121e41a465cc0d1fcc73e51",
+    "size": 6383504,
+    "md5": "efdca78f3af96ae71ed5e149896c7922",
     "updateType": "normal",
     "forceUpdate": false
 }
